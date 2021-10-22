@@ -8,7 +8,7 @@ I am Software Developer, currently hopping from project to project. Looking for 
 - My [Resume](https://github.com/Ando52/Ando52/blob/main/Resume.pdf)
 
 ## Skills and Experience
-Currently most of my experience comes for the projects and assignments tasked to me in university. After my graduation from Univerisity of Toronto I started to learn about web development as that was my weakest skill at the time. I have created some web apps I am proud of like an [Auction House](https://github.com/Ando52/AucitonHouse) and [Mail System](https://github.com/Ando52/MailSystem)
+Currently most of my experience comes for the projects and assignments tasked to me in university. After my graduation from Univerisity of Toronto I started to learn about web development as that was my weakest skill at the time. I have created some web apps I am proud of like an [Auction House](https://github.com/Ando52/AuctionHouse) and [Mail System](https://github.com/Ando52/MailSystem)
 
 ## Technology
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
